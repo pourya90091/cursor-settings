@@ -7,6 +7,12 @@
     "files.autoSave": "afterDelay",
     "diffEditor.ignoreTrimWhitespace": false,
     "glassit.alpha": 200,
-    "editor.lineNumbers": "relative"
+    "editor.lineNumbers": "relative",
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<C-p>"],
+            "commands": ["workbench.action.quickOpen"]
+        }
+    ]
 }
 
