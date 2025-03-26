@@ -1,0 +1,12 @@
+{
+    "cursor.keyboardLayout": "vim",
+    "vim.relativenumber": true,
+    "vim.ignorecase": true,
+    "vim.smartcase": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "glassit.alpha": 200,
+    "editor.lineNumbers": "relative"
+}
+
